@@ -58,4 +58,4 @@ Join Us Outside allows user to create account and with your account you can see 
 - Ali Demir
   [www.github.com/alidemirbay](https://github.com/alidemirbay)
   
-  ![image of app](https://drive.google.com/file/d/1KZcZGpHLk5-m5oQHgkZphARUSMEYjPnP/view?usp=sharing)
+
