@@ -24,6 +24,11 @@
 Join Us Outside is an app for organizing outdoor actities in PNW area.
 Join Us Outside allows user to create account and with your account you can see all activities, you can create an activity or you can just join one.
 
+## Images
+
+![image of app](./client/public/images/j1.jpg)
+![image of app](./client/public/images/j2.jpg)
+
 ## Installation
 
 - Fork repository and clone onto your machine.
